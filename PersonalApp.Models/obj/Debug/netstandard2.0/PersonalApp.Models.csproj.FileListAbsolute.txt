@@ -1,0 +1,10 @@
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\bin\Debug\netstandard2.0\PersonalApp.Models.deps.json
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\bin\Debug\netstandard2.0\PersonalApp.Models.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\bin\Debug\netstandard2.0\PersonalApp.Models.pdb
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\obj\Debug\netstandard2.0\PersonalApp.Models.csproj.AssemblyReference.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\obj\Debug\netstandard2.0\PersonalApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\obj\Debug\netstandard2.0\PersonalApp.Models.AssemblyInfoInputs.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\obj\Debug\netstandard2.0\PersonalApp.Models.AssemblyInfo.cs
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\obj\Debug\netstandard2.0\PersonalApp.Models.csproj.CoreCompileInputs.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\obj\Debug\netstandard2.0\PersonalApp.Models.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Models\obj\Debug\netstandard2.0\PersonalApp.Models.pdb

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PersonalApp.Database\PersonalApp.Database.csproj" />
+    <ProjectReference Include="..\PersonalApp.Models\PersonalApp.Models.csproj" />
+    <ProjectReference Include="..\PersonalApp.Repositories.Abstractions\PersonalApp.Repositories.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

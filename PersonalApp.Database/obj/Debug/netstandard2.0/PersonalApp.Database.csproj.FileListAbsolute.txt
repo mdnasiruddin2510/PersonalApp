@@ -1,0 +1,13 @@
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\bin\Debug\netstandard2.0\PersonalApp.Database.deps.json
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\bin\Debug\netstandard2.0\PersonalApp.Database.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\bin\Debug\netstandard2.0\PersonalApp.Database.pdb
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\bin\Debug\netstandard2.0\PersonalApp.Models.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\bin\Debug\netstandard2.0\PersonalApp.Models.pdb
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\obj\Debug\netstandard2.0\PersonalApp.Database.csproj.AssemblyReference.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\obj\Debug\netstandard2.0\PersonalApp.Database.GeneratedMSBuildEditorConfig.editorconfig
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\obj\Debug\netstandard2.0\PersonalApp.Database.AssemblyInfoInputs.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\obj\Debug\netstandard2.0\PersonalApp.Database.AssemblyInfo.cs
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\obj\Debug\netstandard2.0\PersonalApp.Database.csproj.CoreCompileInputs.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\obj\Debug\netstandard2.0\PersonalApp.Database.csproj.CopyComplete
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\obj\Debug\netstandard2.0\PersonalApp.Database.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Database\obj\Debug\netstandard2.0\PersonalApp.Database.pdb

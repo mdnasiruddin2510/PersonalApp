@@ -1,0 +1,17 @@
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\bin\Debug\netstandard2.0\PersonalApp.Repositories.deps.json
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\bin\Debug\netstandard2.0\PersonalApp.Repositories.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\bin\Debug\netstandard2.0\PersonalApp.Repositories.pdb
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\bin\Debug\netstandard2.0\PersonalApp.Database.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\bin\Debug\netstandard2.0\PersonalApp.Models.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\bin\Debug\netstandard2.0\PersonalApp.Database.pdb
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\bin\Debug\netstandard2.0\PersonalApp.Models.pdb
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\obj\Debug\netstandard2.0\PersonalApp.Repositories.csproj.AssemblyReference.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\obj\Debug\netstandard2.0\PersonalApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\obj\Debug\netstandard2.0\PersonalApp.Repositories.AssemblyInfoInputs.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\obj\Debug\netstandard2.0\PersonalApp.Repositories.AssemblyInfo.cs
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\obj\Debug\netstandard2.0\PersonalApp.Repositories.csproj.CoreCompileInputs.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\obj\Debug\netstandard2.0\PersonalApp.Repositories.csproj.CopyComplete
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\obj\Debug\netstandard2.0\PersonalApp.Repositories.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\obj\Debug\netstandard2.0\PersonalApp.Repositories.pdb
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\bin\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories\bin\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.pdb

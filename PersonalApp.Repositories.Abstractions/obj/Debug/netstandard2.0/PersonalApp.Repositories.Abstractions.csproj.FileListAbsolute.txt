@@ -1,0 +1,13 @@
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\bin\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.deps.json
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\bin\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\bin\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.pdb
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\bin\Debug\netstandard2.0\PersonalApp.Models.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\bin\Debug\netstandard2.0\PersonalApp.Models.pdb
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\obj\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.csproj.AssemblyReference.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\obj\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\obj\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.AssemblyInfoInputs.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\obj\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.AssemblyInfo.cs
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\obj\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\obj\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.csproj.CopyComplete
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\obj\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.dll
+F:\PencilBox Training\PersonalApp\PersonalApp.Repositories.Abstractions\obj\Debug\netstandard2.0\PersonalApp.Repositories.Abstractions.pdb
